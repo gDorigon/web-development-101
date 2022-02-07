@@ -129,6 +129,12 @@ R: Java Virtual Machine ou JVM
 9.5 Qual o nome do interpretador da linguagem JavaScript ? 9.6 Qual o nome interpretador da linguagem Python? 9.7 Python é ou não compilado ? Pesquise e descreva o que encontrar.
 R: NodeJS, 
 
+9.6 Qual o nome do interpretador da linguagem python?
+R: Pyc 
+
+9.7 Python é ou não compilado? Pesquise e descreva o que encontrar? 
+R: Python é uma linguagem interpretada mas, assim como Java, passa por um processo de compilação. Um código fonte Java é primeiramente compilado para um bytecode e depois interpretado por uma máquina virtual.
+
 10. O que é POO em programação?
 R: Programação Orientada a Objetos.
 
