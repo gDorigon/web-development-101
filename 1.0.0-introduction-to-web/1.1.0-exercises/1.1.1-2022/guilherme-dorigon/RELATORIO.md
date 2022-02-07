@@ -178,4 +178,4 @@ R:
 
 3. sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
 
-4. sudo apt install docker-ce
+4. sudo apt install docker.io
